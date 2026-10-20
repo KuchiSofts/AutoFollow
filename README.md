@@ -24,7 +24,7 @@ This repository never shipped a working plugin, and its `AutoFollow.plugin.js` w
 3. Open **User Settings > Plugins > Open Plugins Folder** and move the file there.
 4. Enable **VoiceChatFollower** under **User Settings > Plugins**.
 
-Updates are delivered through BetterDiscord's built-in updater from the new repository. Please open issues and feature requests [there](https://github.com/KuchiSofts/BetterDiscord-Plugins/issues).
+New versions are published in the new repository; download the file again from there to update. Please open issues and feature requests [there](https://github.com/KuchiSofts/BetterDiscord-Plugins/issues).
 
 ## License
 
